@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "409422953727",
+    "project_id": "spin-and-coin-791f9",
+    "storage_bucket": "spin-and-coin-791f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409422953727:android:f817aebd46152c8014e0ca",
+        "android_client_info": {
+          "package_name": "com.kavin.SpinAndCoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409422953727-qjurdld832d1c08odr88cfdiuhil1imc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kavin.SpinAndCoin",
+            "certificate_hash": "ac94f1224ab5c278c7a97d77872639437442ec43"
+          }
+        },
+        {
+          "client_id": "409422953727-q55ip8gvs07lnr6a0tb1ej2r1bl1gqtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDSGajWAcgs5pF6lMaYW3oREBxFEEtwGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409422953727-q55ip8gvs07lnr6a0tb1ej2r1bl1gqtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
